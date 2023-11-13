@@ -1,6 +1,12 @@
 <a href="https://www.buymeacoffee.com/fighterethan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-### Hi there 👋
+### Hi there! 👋
+I code discord bots as a hobby and side gig! If you're interested in having your own custom bot, feel free to reach out to me on discord! My username is fighter_ethan.
+-----
+#### About Me
+Name: Ethan
+Pronouns: He/Him
+Programming Languages: Python, HTML, CSS
 
 <!--
 **fighter-Ethan/fighter-Ethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
