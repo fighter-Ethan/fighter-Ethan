@@ -1,7 +1,9 @@
 <a href="https://www.buymeacoffee.com/fighterethan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Hi there! 👋
-#### I code discord bots as a hobby and side gig! If you like my work, please consider buying me a coffee!
+#### I code discord bots as a hobby, and I am a Junior Tech Staff Member at @SCPWiki.
+
+If you like my work, please consider buying me a coffee!
 
 #### If you're interested in having your own custom bot, feel free to reach out to me on discord! 
 #### My discord username is fighter_ethan.
